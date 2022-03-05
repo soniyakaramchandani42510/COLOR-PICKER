@@ -1,0 +1,19 @@
+#rgb{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+ul {
+    list-style: none;
+    padding: 24px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+}
+
+ul li{
+    width: 130px;
+    height: 120px;
+    cursor: pointer;
+    border-radius: 6px;
+}
